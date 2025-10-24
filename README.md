@@ -57,7 +57,7 @@ Run locally
 npm run dev
 
 
-Open http://localhost:5173
+Open https://ink-games-omega.vercel.app/
  in your browser.
 
 📂 Project Structure
